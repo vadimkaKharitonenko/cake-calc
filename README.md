@@ -1,3 +1,3 @@
-![screen](1.png)
-![screen](2.png)
-![screen](3.png)
+![screen](https://github.com/vadimkaKharitonenko/cake-calc/blob/master/1.PNG)
+![screen](https://github.com/vadimkaKharitonenko/cake-calc/blob/master/2.PNG)
+![screen](https://github.com/vadimkaKharitonenko/cake-calc/blob/master/3.PNG)
