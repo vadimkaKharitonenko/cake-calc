@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: my-cake-electron-react-setup-1.0.0.exe
+    sha512: c/V2xUHmiPDR6Zoj58dsIQpxg2YNMdW86Jq55aWeeem6jLsMbbWqOnGqVKJ6ThXY0P0LTUPvNVL58I6fVqXL+Q==
+    size: 46963218
+path: my-cake-electron-react-setup-1.0.0.exe
+sha512: c/V2xUHmiPDR6Zoj58dsIQpxg2YNMdW86Jq55aWeeem6jLsMbbWqOnGqVKJ6ThXY0P0LTUPvNVL58I6fVqXL+Q==
+releaseDate: '2019-04-07T12:45:25.564Z'
